@@ -1,4 +1,4 @@
-##: The Russian Peasant's Algorithm
+##: The Russian Peasant's Algorithm (Ancient Egyptian Multiplication)
 ##: Been around for a long long time. (Seventeenth Century B.C.)
 
 ##: Multiply two numbers together.
